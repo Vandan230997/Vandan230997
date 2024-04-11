@@ -3,7 +3,14 @@
 
 # Hello, folks! <img src="https://github.com/vandan2397/Profile/blob/main/wave.gif" width="30px">
 
-I am vandan pandya, a passionate data scientist and a Graduate student at University of Houston. I am from Houston. My passion lies in solving problems using data and to extract meaningful insights out of it. 
+•	Over 3+ years of experience in Power Platform and Analytics
+•	Experience in designing and implementing custom Power Platform solutions to address specific business needs, such as creating interactive canvas and model driven applications, data visualizations, automating business processes and improving user experience.
+•	Proficient working with PowerApps, Power Automate, Power BI, SQL, Dataverse, SharePoint and Python.
+•	Technical competence in performing ad hoc analysis and generating reports using SQL and Power BI, facilitating swift decision-making. Additionally, experienced in leading ETL processes to integrate and transform data, enhancing data accuracy and consistency.
+•	Proficient in applying machine learning algorithms for predictive modeling and utilizing natural language processing techniques to extract insights from textual data, contributing to automated business process for risk assessment.
+•	Demonstrated ability to analyze complex problems meticulously, employing a detail-oriented approach to deliver innovative solutions. Skilled in multitasking and efficiently handling multiple responsibilities, ensuring effective project management and timely task completion.
+•	Collaborated cross-functionally with internal stakeholders, understood and turned their requirements to technical solutions, and delivered actionable insights through clear oral and written communication in an agile environment.
+
 
 You can find me on  
 
