@@ -3,11 +3,11 @@
 
 # Hello, folks! <img src="https://github.com/vandan2397/Profile/blob/main/wave.gif" width="30px">
 
-•	Over 3+ years of experience in Power Platform and Analytics <br>
-•	Experience in designing and implementing custom Power Platform solutions to address specific business needs, such as creating interactive canvas and model driven applications, data visualizations, automating business processes and improving user experience.
-•	Proficient working with PowerApps, Power Automate, Power BI, SQL, Dataverse, SharePoint and Python.
-•	Technical competence in performing ad hoc analysis and generating reports using SQL and Power BI, facilitating swift decision-making. Additionally, experienced in leading ETL processes to integrate and transform data, enhancing data accuracy and consistency.
-•	Proficient in applying machine learning algorithms for predictive modeling and utilizing natural language processing techniques to extract insights from textual data, contributing to automated business process for risk assessment.
+•	Over 3+ years of experience in <b>Power Platform and Analytics</b> <br>
+•	Experience in designing and implementing custom <b>Power Platform</b> solutions to address specific business needs, such as creating interactive canvas and model driven applications, data visualizations, automating business processes and improving user experience.
+•	Proficient working with </b> PowerApps, Power Automate, Power BI, SQL, Dataverse, SharePoint and Python </b>.
+•	Technical competence in performing </b> ad hoc analysis </b> and generating reports using <b> SQL and Power BI </b>, facilitating swift decision-making. Additionally, experienced in leading <b> ETL(Extract, Transform, Load) </b> processes to integrate and transform data, enhancing data accuracy and consistency.
+•	Proficient in applying <b> machine learning </b> algorithms for predictive modeling and utilizing <b> natural language processing </b> techniques to extract insights from textual data, contributing to automated business process for risk assessment.
 •	Demonstrated ability to analyze complex problems meticulously, employing a detail-oriented approach to deliver innovative solutions. Skilled in multitasking and efficiently handling multiple responsibilities, ensuring effective project management and timely task completion.
 •	Collaborated cross-functionally with internal stakeholders, understood and turned their requirements to technical solutions, and delivered actionable insights through clear oral and written communication in an agile environment.
 
