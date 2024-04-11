@@ -3,7 +3,7 @@
 
 # Hello, folks! <img src="https://github.com/vandan2397/Profile/blob/main/wave.gif" width="30px">
 
-•	Over 3+ years of experience in Power Platform and Analytics
+•	Over 3+ years of experience in Power Platform and Analytics <br>
 •	Experience in designing and implementing custom Power Platform solutions to address specific business needs, such as creating interactive canvas and model driven applications, data visualizations, automating business processes and improving user experience.
 •	Proficient working with PowerApps, Power Automate, Power BI, SQL, Dataverse, SharePoint and Python.
 •	Technical competence in performing ad hoc analysis and generating reports using SQL and Power BI, facilitating swift decision-making. Additionally, experienced in leading ETL processes to integrate and transform data, enhancing data accuracy and consistency.
